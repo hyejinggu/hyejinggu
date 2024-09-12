@@ -1,5 +1,8 @@
-## Hi there 👋
+## 우와아아 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinggu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinggu)](https://github.com/anuraghazra/github-readme-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/bmhsr5)](https://leetcode.com/JacobLinCool)
 <!--
 **hyejinggu/hyejinggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
