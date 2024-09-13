@@ -2,7 +2,13 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=1" />
 
-# 우와 신기하다
+# Hello, Hyejin!
+
+<div>
+  Hello, I'm Hyejin Shin, a backend developer. <br>
+  I enjoy communicating with my team members and <br> appreciate the value of sharing diverse opinions through code reviews. <br>
+  The thrill of completing a targeted feature and the satisfaction of seeing the code <br> improve gradually drive my passion for development.<br>
+</div>
 
 ### Languages & Platforms
 
@@ -19,16 +25,23 @@
 
 ### Toools
 
-<div align="center">
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=#181717"/>
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
 
 <br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinggu)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinggu)](https://github.com/anuraghazra/github-readme-stats)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bmhsr5)](https://leetcode.com/JacobLinCool)
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinggu)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinggu)](https://github.com/anuraghazra/github-readme-stats)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/bmhsr5)](https://leetcode.com/JacobLinCool)
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=1" />
 
