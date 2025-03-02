@@ -7,7 +7,6 @@
 <div>
   Hello, I'm Hyejin Shin, a backend developer. <br>
   I enjoy communicating with my team members and <br> appreciate the value of sharing diverse opinions through code reviews. <br>
-  The thrill of completing a targeted feature and the satisfaction of seeing the code <br> improve gradually drive my passion for development.<br>
 </div>
 
 ### Languages & Platforms
